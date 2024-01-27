@@ -13,8 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cascadiaweb.services/wp-content/uploads/2023/08/Logo-White-Border-scaled.webp
   name: Cascadia Web Services
-  introTitle: "Helping You Reach New Heights"
-  theme: night
+  themeUrl: https://status.cascadiaweb.services/cws.css
   navbar:
     - title: Back to Website
       href: https://cascadiaweb.services
