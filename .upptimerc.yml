@@ -3,8 +3,8 @@ owner: Cascadia-Web-Services # Your GitHub organization or username, where this 
 repo: monitoring # The name of this repository
 
 sites:
-  - name: Casacadia Web Services
-    url: $https://cascadiaweb.services
+  - name: Client Site
+    url: $CLIENT_SITE_001
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
