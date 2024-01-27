@@ -13,3 +13,6 @@ status-website:
   navbar:
     - title: Back to Website
       href: https://cascadiaweb.services
+
+i18n:
+  footer: This is an independent monitoring resource powered though GitHub and by Upptime.
