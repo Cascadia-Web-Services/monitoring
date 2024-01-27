@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadiaweb.services.ico",
     "slug": "casacadia-web-services",
     "status": "up",
-    "uptime": "1.09%",
-    "uptimeDay": "1.09%",
-    "uptimeWeek": "1.09%",
-    "uptimeMonth": "1.09%",
-    "uptimeYear": "1.09%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 80,
     "timeDay": 80,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
-    "dailyMinutesDown": {
-      "2024-01-27": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
