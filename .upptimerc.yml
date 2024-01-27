@@ -1,25 +1,15 @@
-# Change these first
-owner: Cascadia-Web-Services # Your GitHub organization or username, where this repository lives
-repo: monitoring # The name of this repository
+owner: Cascadia-Web-Services
+repo: monitoring
 
 sites:
   - name: Cascadia Web Services - Website
     url: https://cascadiaweb.services
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cascadiaweb.services
-  # baseUrl: /your-repo-name
   logoUrl: https://cascadiaweb.services/wp-content/uploads/2023/08/Logo-White-Border-scaled.webp
   name: Cascadia Web Services
   theme: night
-  introMessage: This is an independent monitoring resource and powered by GitHub pages.
   navbar:
     - title: Back to Website
       href: https://cascadiaweb.services
-i18n:
-  footer: This is an independent monitoring resource powered though GitHub and by Upptime.
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
