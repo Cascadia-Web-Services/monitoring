@@ -1,7 +1,7 @@
-url: $https://cascadiaweb.services
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-27T10:20:11.412Z
+url: https://cascadiaweb.services
+status: up
+code: 200
+responseTime: 80
+lastUpdated: 2024-01-27T10:24:19.196Z
 startTime: 2024-01-27T10:20:11.405Z
 generator: Upptime <https://github.com/upptime/upptime>
