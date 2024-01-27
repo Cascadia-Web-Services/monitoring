@@ -18,7 +18,7 @@ status-website:
     - title: Back to Website
       href: https://cascadiaweb.services
   i18n:
-    footer: Helping You Reach New Heights
+    footer: "Helping You Reach New Heights"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
