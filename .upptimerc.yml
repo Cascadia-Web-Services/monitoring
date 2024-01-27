@@ -3,8 +3,8 @@ owner: Cascadia-Web-Services # Your GitHub organization or username, where this 
 repo: monitoring # The name of this repository
 
 sites:
-  - name: Client Site
-    url: $CLIENT_SITE_001
+  - name: Cascadia Web Services - Website
+    url: https://cascadiaweb.services
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,12 +13,11 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cascadiaweb.services/wp-content/uploads/2023/08/Logo-White-Border-scaled.webp
   name: Cascadia Web Services
-  themeUrl: https://status.cascadiaweb.services/cws.css
+  theme: night
+  introMessage: This is an independent monitoring resource and powered by GitHub pages.
   navbar:
     - title: Back to Website
       href: https://cascadiaweb.services
-  i18n:
-    footer: "Helping You Reach New Heights"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
